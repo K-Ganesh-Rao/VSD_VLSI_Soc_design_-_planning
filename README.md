@@ -1,3 +1,3 @@
-# VSD_VLSI_Soc_design_and_planning
-
-![image](https://github.com/K-Ganesh-Rao/VSD_VLSI_Soc_design_and_planning/assets/130823089/f94997bc-5549-4fda-9dc1-a2c370cbf726)
+#Day 1:  
+How to talk to computers.
+[Introduction to QFN-48 Package, chip, pads, core, die and IPs]
