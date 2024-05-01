@@ -13,3 +13,5 @@ There are 3 mail components a IC :
 
 (3)Core : Total area in which designed logic is fabricated.
 ![image](https://github.com/K-Ganesh-Rao/VSD_VLSI_Soc_design_and_planning/assets/130823089/5139f36f-4e30-40de-aec9-933f62b21184)
+
+#Day 2:
