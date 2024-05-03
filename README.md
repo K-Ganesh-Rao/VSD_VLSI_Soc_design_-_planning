@@ -43,6 +43,15 @@ There are 3 mail components a IC :
 
 **Pin placement and logical cell placement blockage**
 
+![image](https://github.com/K-Ganesh-Rao/VSD_VLSI_Soc_design_and_planning/assets/130823089/9e881ac9-419e-4cb6-a19f-119fcaa7c63c)
+
+![image](https://github.com/K-Ganesh-Rao/VSD_VLSI_Soc_design_and_planning/assets/130823089/15969396-718e-4316-9c1a-1087d9e9d7e9)
+
+![image](https://github.com/K-Ganesh-Rao/VSD_VLSI_Soc_design_and_planning/assets/130823089/866889bd-2cea-4b29-bbb6-adf03729c843)
+
+
+
+
 
 
 
