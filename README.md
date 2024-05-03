@@ -14,6 +14,18 @@ There are 3 mail components a IC :
 (3)Core : Total area in which designed logic is fabricated.
 ![image](https://github.com/K-Ganesh-Rao/VSD_VLSI_Soc_design_and_planning/assets/130823089/5139f36f-4e30-40de-aec9-933f62b21184)
 
+**EDA setup**
+
+![image](https://github.com/K-Ganesh-Rao/VSD_VLSI_Soc_design_and_planning/assets/130823089/faf0770b-df38-40aa-826f-233087b94388)
+
+![image](https://github.com/K-Ganesh-Rao/VSD_VLSI_Soc_design_and_planning/assets/130823089/26444ce5-695f-4c6f-9e12-39ef59944047)
+
+![image](https://github.com/K-Ganesh-Rao/VSD_VLSI_Soc_design_and_planning/assets/130823089/66fc2a9f-abd9-47dc-8516-77895e600182)
+
+![image](https://github.com/K-Ganesh-Rao/VSD_VLSI_Soc_design_and_planning/assets/130823089/6d8737c3-3bde-4ae1-a682-c2067a7cc3d6)
+
+
+
 **#Day 2:** 
 
 **Chip Floor planning **
