@@ -31,7 +31,8 @@ Now it shows preperation is complated.
 ![image](https://github.com/K-Ganesh-Rao/VSD_VLSI_Soc_design_and_planning/assets/130823089/21199ab9-4e2b-446a-b32b-c1ee40ac0183)
 'run_synthesis'
 
-![image](https://github.com/K-Ganesh-Rao/VSD_VLSI_Soc_design_and_planning/assets/130823089/6017495a-2f72-4937-89f5-98da83859f9b)
+![image](https://github.com/K-Ganesh-Rao/VSD_VLSI_Soc_design_and_planning/assets/130823089/acacf543-67f5-42e1-a364-fe1ce7c6d9c0)
+
 synthesis completed
 
 
