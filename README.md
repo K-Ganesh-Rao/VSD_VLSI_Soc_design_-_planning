@@ -15,3 +15,13 @@ There are 3 mail components a IC :
 ![image](https://github.com/K-Ganesh-Rao/VSD_VLSI_Soc_design_and_planning/assets/130823089/5139f36f-4e30-40de-aec9-933f62b21184)
 
 **#Day 2:**
+**Chip Floor planning **
+*Utilization factor and aspect ratio*
+
+![image](https://github.com/K-Ganesh-Rao/VSD_VLSI_Soc_design_and_planning/assets/130823089/292b43f9-b622-4bc7-a83a-e96d2fbffc7e)
+
+![image](https://github.com/K-Ganesh-Rao/VSD_VLSI_Soc_design_and_planning/assets/130823089/26170472-be38-47a3-a013-c645d93dc788)
+
+![image](https://github.com/K-Ganesh-Rao/VSD_VLSI_Soc_design_and_planning/assets/130823089/5965a314-ee74-40de-8693-c4e0e3f351b7)
+
+*Power Planning*
