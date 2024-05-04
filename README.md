@@ -35,6 +35,8 @@ Now it shows preperation is complated.
 
 synthesis completed
 
+***Steps to characterize synthesis results***
+
 
 
 **#Day 2:** 
