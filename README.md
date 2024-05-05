@@ -1,4 +1,4 @@
-#Day 1:  
+# Day 1:  
 How to talk to computers.
 
 [Introduction to QFN-48 Package, chip, pads, core, die and IPs]
@@ -14,7 +14,7 @@ There are 3 mail components a IC :
 (3)Core : Total area in which designed logic is fabricated.
 ![image](https://github.com/K-Ganesh-Rao/VSD_VLSI_Soc_design_and_planning/assets/130823089/5139f36f-4e30-40de-aec9-933f62b21184)
 
-**EDA Design Preparation Step**
+## EDA Design Preparation Step
 
 To enter in to openLane we need to use flow.tcl as it will goes with the flow using the script.And by using interactive switch, we can do step by step processes.Without this intersctive switch it will run complete RTL to GDSII. now open lane has launchd and the promp is changed.
 
@@ -34,7 +34,11 @@ Now, in openlane, we are going to run the synthesis, but before synthesis, we ha
 
 Now it shows preperation is complated.
 
-# Review files after design prep and run synthesis
+## Review files after design prep and run synthesis
+
+after the preperation in completed, in picorv32a file, the run terictory is created.inside that folder, under current date a folder is created. so in this terictory some folders are available which is required for openlane.
+
+In this temp file  merged.lef file was created in preparation time. if we open this merged.lef file, we get all the wire or layer level and cell level information.
 
 ![image](https://github.com/K-Ganesh-Rao/VSD_VLSI_Soc_design_and_planning/assets/130823089/21199ab9-4e2b-446a-b32b-c1ee40ac0183)
 'run_synthesis'
@@ -43,7 +47,7 @@ Now it shows preperation is complated.
 
 synthesis completed
 
-***Steps to characterize synthesis results***
+## Steps to characterize synthesis results
 
 ![image](https://github.com/K-Ganesh-Rao/VSD_VLSI_Soc_design_and_planning/assets/130823089/8cbf562a-1e1b-46fb-b8e2-1ed080d354de)
 
@@ -51,11 +55,11 @@ synthesis completed
 
 
 
-**#Day 2:** 
+# Day 2:
 
-**Chip Floor planning **
+## Chip Floor planning 
 
-*Utilization factor and aspect ratio*
+### Utilization factor and aspect ratio
 
 ![image](https://github.com/K-Ganesh-Rao/VSD_VLSI_Soc_design_and_planning/assets/130823089/292b43f9-b622-4bc7-a83a-e96d2fbffc7e)
 
@@ -63,7 +67,7 @@ synthesis completed
 
 ![image](https://github.com/K-Ganesh-Rao/VSD_VLSI_Soc_design_and_planning/assets/130823089/5965a314-ee74-40de-8693-c4e0e3f351b7)
 
-*Power Planning*
+## Power Planning
 
 ![image](https://github.com/K-Ganesh-Rao/VSD_VLSI_Soc_design_and_planning/assets/130823089/904e58f6-17cc-4ba2-be4a-810c5322b2e8)
 
@@ -78,7 +82,7 @@ synthesis completed
 ![image](https://github.com/K-Ganesh-Rao/VSD_VLSI_Soc_design_and_planning/assets/130823089/3f6c3e85-92d5-429d-9f61-ff78fb6e60a5)
 
 
-**Pin placement and logical cell placement blockage**
+## Pin placement and logical cell placement blockage
 
 ![image](https://github.com/K-Ganesh-Rao/VSD_VLSI_Soc_design_and_planning/assets/130823089/9e881ac9-419e-4cb6-a19f-119fcaa7c63c)
 
@@ -86,9 +90,38 @@ synthesis completed
 
 ![image](https://github.com/K-Ganesh-Rao/VSD_VLSI_Soc_design_and_planning/assets/130823089/866889bd-2cea-4b29-bbb6-adf03729c843)
 
+## Steps to run floorplan using OpenLANE
 
+## Review floorplan files and steps to view floorplan
 
+## Review floorplan layout in Magic
 
+## Library building and Placement
 
+## Netlist binding and initial place design
 
+## Optimize placement using estimated wire-length and capacitance
+
+## Final placement optimization
+
+## Need for libraries and characterization
+
+## Congestion aware placement using RePlAce
+
+# Cell design and characterization flows
+
+## Inputs for cell design flow
+
+## Circuit design steps
+### Layout design step
+
+### Typical characterization flow
+
+## General timing characterization parameters
+
+## Timing threshold definitions
+
+## Propagation delay and transition time
+
+# Day 3
 
