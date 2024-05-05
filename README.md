@@ -16,7 +16,6 @@ There are 3 mail components a IC :
 
 **EDA setup**
 
-![image](https://github.com/K-Ganesh-Rao/VSD_VLSI_Soc_design_and_planning/assets/130823089/faf0770b-df38-40aa-826f-233087b94388)
 
 ![image](https://github.com/K-Ganesh-Rao/VSD_VLSI_Soc_design_and_planning/assets/130823089/26444ce5-695f-4c6f-9e12-39ef59944047)
 
