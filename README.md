@@ -14,14 +14,22 @@ There are 3 mail components a IC :
 (3)Core : Total area in which designed logic is fabricated.
 ![image](https://github.com/K-Ganesh-Rao/VSD_VLSI_Soc_design_and_planning/assets/130823089/5139f36f-4e30-40de-aec9-933f62b21184)
 
-**EDA setup**
+**EDA Design Preparation Step**
 
+To enter in to openLane we need to use flow.tcl as it will goes with the flow using the script.And by using interactive switch, we can do step by step processes.Without this intersctive switch it will run complete RTL to GDSII. now open lane has launchd and the promp is changed.
 
-![image](https://github.com/K-Ganesh-Rao/VSD_VLSI_Soc_design_and_planning/assets/130823089/26444ce5-695f-4c6f-9e12-39ef59944047)
+![image](https://github.com/K-Ganesh-Rao/VSD_VLSI_Soc_design_and_planning/assets/130823089/26444ce5-695f-4c6f-9e12-39ef59944047)  
+
+Now all the packeges which are required are called to run the flow.
 
 ![image](https://github.com/K-Ganesh-Rao/VSD_VLSI_Soc_design_and_planning/assets/130823089/5e2b2311-f55c-4492-9fc8-b676376b20e2)
+now we are ready to execute the command.
 
 ![image](https://github.com/K-Ganesh-Rao/VSD_VLSI_Soc_design_and_planning/assets/130823089/bc71338b-1648-4b4a-b185-6180631b4855)
+In open lane there are nearly 30-40 example designs which and be used. for example picorv32a.v design . In this design we can see many files are available. i.e., scr, config.tcl, etc. This config.tlc file contains every details about the design. for example, details about enrollment, clock period, clock period port etc...
+
+Now, in openlane, we are going to run the synthesis, but before synthesis, we have to prepare design setup stage. for that command is  "prep -design picorv32a"
+
 
 ![image](https://github.com/K-Ganesh-Rao/VSD_VLSI_Soc_design_and_planning/assets/130823089/6d8737c3-3bde-4ae1-a682-c2067a7cc3d6)
 
