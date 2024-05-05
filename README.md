@@ -37,6 +37,10 @@ synthesis completed
 
 ***Steps to characterize synthesis results***
 
+![image](https://github.com/K-Ganesh-Rao/VSD_VLSI_Soc_design_and_planning/assets/130823089/8cbf562a-1e1b-46fb-b8e2-1ed080d354de)
+
+![image](https://github.com/K-Ganesh-Rao/VSD_VLSI_Soc_design_and_planning/assets/130823089/1793b6ff-5771-46a5-b982-eff812118e26)
+
 
 
 **#Day 2:** 
