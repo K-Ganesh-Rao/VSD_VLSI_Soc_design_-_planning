@@ -30,12 +30,11 @@ In open lane there are nearly 30-40 example designs which and be used. for examp
 
 Now, in openlane, we are going to run the synthesis, but before synthesis, we have to prepare design setup stage. for that command is  `prep -design picorv32a`
 
-
 ![image](https://github.com/K-Ganesh-Rao/VSD_VLSI_Soc_design_and_planning/assets/130823089/6d8737c3-3bde-4ae1-a682-c2067a7cc3d6)
 
 Now it shows preperation is complated.
 
-***Review files after design prep and run synthesis***
+#Review files after design prep and run synthesis
 
 ![image](https://github.com/K-Ganesh-Rao/VSD_VLSI_Soc_design_and_planning/assets/130823089/21199ab9-4e2b-446a-b32b-c1ee40ac0183)
 'run_synthesis'
