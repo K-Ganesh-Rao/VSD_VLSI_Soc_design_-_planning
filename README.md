@@ -20,6 +20,8 @@ There are 3 mail components a IC :
 
 ![image](https://github.com/K-Ganesh-Rao/VSD_VLSI_Soc_design_and_planning/assets/130823089/26444ce5-695f-4c6f-9e12-39ef59944047)
 
+![image](https://github.com/K-Ganesh-Rao/VSD_VLSI_Soc_design_and_planning/assets/130823089/e321456c-2a3f-4c12-b9d2-fa2e17469103)
+
 ![image](https://github.com/K-Ganesh-Rao/VSD_VLSI_Soc_design_and_planning/assets/130823089/66fc2a9f-abd9-47dc-8516-77895e600182)
 
 ![image](https://github.com/K-Ganesh-Rao/VSD_VLSI_Soc_design_and_planning/assets/130823089/6d8737c3-3bde-4ae1-a682-c2067a7cc3d6)
