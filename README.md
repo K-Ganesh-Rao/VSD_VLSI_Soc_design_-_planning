@@ -28,7 +28,7 @@ now we are ready to execute the command.
 ![image](https://github.com/K-Ganesh-Rao/VSD_VLSI_Soc_design_and_planning/assets/130823089/bc71338b-1648-4b4a-b185-6180631b4855)
 In open lane there are nearly 30-40 example designs which and be used. for example picorv32a.v design . In this design we can see many files are available. i.e., scr, config.tcl, etc. This config.tlc file contains every details about the design. for example, details about enrollment, clock period, clock period port etc...
 
-Now, in openlane, we are going to run the synthesis, but before synthesis, we have to prepare design setup stage. for that command is  >prep -design picorv32a
+Now, in openlane, we are going to run the synthesis, but before synthesis, we have to prepare design setup stage. for that command is  > prep -design picorv32a
 
 
 ![image](https://github.com/K-Ganesh-Rao/VSD_VLSI_Soc_design_and_planning/assets/130823089/6d8737c3-3bde-4ae1-a682-c2067a7cc3d6)
